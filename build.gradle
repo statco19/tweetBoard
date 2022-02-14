@@ -17,6 +17,7 @@ dependencies {
     implementation 'org.apache.kafka:kafka-clients:2.5.0'
     implementation 'org.elasticsearch.client:elasticsearch-rest-high-level-client:6.4.0'
     implementation 'com.google.code.gson:gson:2.8.9'
+    implementation 'org.apache.hadoop:hadoop-client:3.3.1'
 
 }
 
